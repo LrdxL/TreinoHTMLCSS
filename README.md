@@ -8,6 +8,8 @@ Criação de um site inspirado em outro feito por mim.
 ![image](https://github.com/LrdxL/TreinoHTMLCSS/assets/81310551/9abcc9fd-80f1-4945-8f1c-33e4f35e9588)
 
 <h1 align="center"> MEU SITE  </h1>
-<h2 align="center">
+<h2 align="center"> 
+  
 ![image](https://github.com/LrdxL/TreinoHTMLCSS/assets/81310551/d2449f61-1743-4b39-a602-92d5fe2ea599)
+
 </h2>
