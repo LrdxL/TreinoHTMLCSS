@@ -2,7 +2,7 @@
 Criação de um site inspirado em outro feito por mim.
 <h1 align="center"> INSPIRAÇÂO </h1>
 
-
+<img align ="center" width ="100%" height = "30%" src="(https://github.com/LrdxL/TreinoHTMLCSS/assets/81310551/b3345c56-f7f9-451d-8052-9ff8e1636b69" />
 
 ![image](https://github.com/LrdxL/TreinoHTMLCSS/assets/81310551/b3345c56-f7f9-451d-8052-9ff8e1636b69)
 ![image](https://github.com/LrdxL/TreinoHTMLCSS/assets/81310551/223296e4-bfa7-477e-a81c-091a23aedf24)
