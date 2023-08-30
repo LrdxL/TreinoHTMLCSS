@@ -10,5 +10,7 @@ Criação de um site inspirado em outro feito por mim.
 <h1 align="center"> MEU SITE  </h1>
   
 ![image](https://github.com/LrdxL/TreinoHTMLCSS/assets/81310551/d2449f61-1743-4b39-a602-92d5fe2ea599)
+![image](https://github.com/LrdxL/TreinoHTMLCSS/assets/81310551/989ddc31-96a1-455e-8bf3-f00fceda8ded)
+
 
 
